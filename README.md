@@ -1,28 +1,18 @@
-A static-website starter template using [Static Web Server](https://github.com/static-web-server/static-web-server).
+# Documentation for AAT Sentinel tracker
 
-> You can follow the full tutorial from [here](https://docs.wasmer.io/edge/tutorials/cdn)
+<a href='https://github.com/aat-sentinel/Documentation/raw/main/Sentinel%20AAT%20lite%20User%20Guide.pdf' target='_blank'>Click here to download the user guide</a><br>
+<a href='https://github.com/aat-sentinel/Documentation/raw/main/Sentinel%20AAT%20lite%20User%20Guide%20-%20TBS%20setup.pdf' target='_blank'>Click here to download the TBS WiFi guide extension</a><br>
+<a href='https://github.com/aat-sentinel/Documentation/raw/main/Sentinel%20AAT%20lite%20User%20Guide%20-%20ELRS%20setup.pdf' target='_blank'>Click here to download the ELRS backpack guide extension</a><br>
 
-## Usage
+<a href='https://github.com/aat-sentinel/Documentation/raw/main/Sentinel%20AAT%20lite%20Assembly%20manual.pdf' target='_blank'>Click here to download the assembly manual</a><br>
 
-All the static files will be served from the `public` folder, and the static webserver will be configured using the `config.toml` file.
+<a href='https://www.youtube.com/channel/UCaOChZr-KkSGh9g5-SVG64Q' target='_blank'>Youtube instruction videos</a><br>
 
-You can run the static-website template easily using Wasmer (check out the [install guide](https://docs.wasmer.io/install)):
 
-```bash
-wasmer run . --net
-```
+# 3D print files
 
-Open [http://localhost:8080](http://localhost:8080) with your browser
-to see the static website.
+<a href='https://github.com/aat-sentinel/AAT-lite-hardware/archive/refs/heads/main.zip' target='_blank'>Click here to download the 3D printer STL files</a><br>
 
-## Deploy on Wasmer Edge
+# Latest firmware
 
-The easiest way to serve your public assets is to use the [Wasmer Edge](https://wasmer.io/products/edge) as your CDN.
-
-Live example: https://static-website.wasmer.app/
-
-Run this commmand to deploy to Wasmer Edge:
-
-```bash
-wasmer deploy
-```
+<a href='https://github.com/aat-sentinel/AAT-lite-firmware/archive/refs/heads/master.zip' target='_blank'>Click here to download the latest firmware</a><br>
